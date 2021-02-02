@@ -2,22 +2,22 @@ email:
   id: 'your.name@yoursite.com'
   href: 'mailto:'
   title: 'Email'
-  fa-icon: 'fa-envelope-square'
+  fa-icon: 'fa-envelope-square fa-5x'
 
 facebook:
   id: 'your-facebook-username'
   href: 'https://www.facebook.com/'
   title: 'Facebook'
-  fa-icon: 'fa-facebook-square'
+  fa-icon: 'fa-facebook-square fa-5x'
 
 twitter:
   id: 'your-twitter-name'
   href: 'https://www.twitter.com/'
   title: 'Twitter'
-  fa-icon: 'fa-twitter-square'
+  fa-icon: 'fa-twitter-square fa-5x'
 
 github:
   id: 'your-github-name'
   href: 'https://github.com/'
   title: 'GitHub'
-  fa-icon: 'fa-github-square'
+  fa-icon: 'fa-github-square fa-5x'
